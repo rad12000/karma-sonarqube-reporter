@@ -1,0 +1,16 @@
+{
+  "name": "karma-sonarqube-reporter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "glob": "^8.0.3",
+    "jsdom": "^20.0.0",
+    "xml-formatter": "^2.6.1"
+  }
+}
